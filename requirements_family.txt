@@ -1,0 +1,25 @@
+# 全家備課與學習小幫手 — 精選教學 Python 套件 (15 packages)
+# 精選自 arnohsu-0930/python-lazy-setup，專為考卷排版、PDF/OCR、圖表、簡報與動畫匯出設計
+
+# 1. Word / PowerPoint / Excel 考卷與教具製作
+python-docx
+python-pptx
+openpyxl
+pandas
+
+# 2. PDF 講義拆合與離線繁中 OCR 辨識
+pypdf
+pdfplumber
+rapidocr-onnxruntime
+markitdown
+
+# 3. 數學圖表、重點海報與 QR Code 產生
+pillow
+matplotlib
+qrcode
+
+# 4. 教學動畫轉 MP4 影片與網頁素材處理
+moviepy
+playwright
+beautifulsoup4
+markdown
